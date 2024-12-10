@@ -133,7 +133,7 @@ The data used for this analysis was sourced from the Kaggle Global Happiness dat
 The visualizations were created using Python libraries including **Matplotlib**, **Seaborn**, and **Folium** in Google Colab.
 
 ### Code Links:
-- [GitHub Repository](https://github.com/Puisque/hawaii_airbnb_data_visualization)
+- [GitHub Repository](https://github.com/bhavana-devulapally/world-happiness-report-data-visualizaton/)
 - [Google Colab Link](https://drive.google.com/file/d/1tNUM2eyOofeMI5wQK9Kq7WVY8swcPCWC/view?usp=drive_link)
 
 ## Conclusion
