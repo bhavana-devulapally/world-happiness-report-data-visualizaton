@@ -1,4 +1,4 @@
-# world-happiness-report-data-visualizaton
+# World Happiness Records Data Visualizaton
 
 Here's a well-structured and polished README based on the content you've provided. This version includes sections on the **Project Overview**, **Visualizations**, **Key Insights**, **Data and Methodology**, and **Resources**. You can enhance this further by linking images and project files in the relevant sections:
 
