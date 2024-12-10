@@ -1,18 +1,18 @@
 # World Happiness Records Data Visualizaton
 
-Here's a well-structured and polished README based on the content you've provided. This version includes sections on the **Project Overview**, **Visualizations**, **Key Insights**, **Data and Methodology**, and **Resources**. You can enhance this further by linking images and project files in the relevant sections:
 
----
+## Introduction
 
-# World Happiness Report Visualization
-
-## Project Overview
-
-This project aims to explore the relationship between various factors (such as GDP, life expectancy, freedom to make life choices, corruption perceptions, and social support) and happiness scores across different countries and regions from 2015 to 2023. By utilizing data visualization techniques, this project presents insights into how these factors evolve over time and influence global happiness levels.
+The project aims to explore the relationship between various factors (such as GDP, life expectancy, freedom to make life choices, corruption perceptions, and social support) and happiness scores across different countries and regions from 2015 to 2023. By utilizing data visualization techniques, this project presents insights into how these factors evolve over time and influence global happiness levels. 
 
 The visualizations are created using Python libraries, including **Matplotlib**, **Seaborn**, and **Folium**, in Google Colab. These visualizations showcase trends, relationships, and disparities in happiness scores across different regions and countries.
 
 ## Visualizations
+
+##Data Overview
+
+<img width="566" alt="image" src="https://github.com/user-attachments/assets/b037fa4b-66d0-4508-ba4f-455208cd63a2">
+
 
 ### **Figure 1: Yearly Happiness Scores for Well-Known Countries (2015–2023)** - *HeatMap*
 
