@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The project aims to explore the relationship between various factors (such as GDP, life expectancy, freedom to make life choices, corruption perceptions, and social support) and happiness scores across different countries and regions from 2015 to 2023. By utilizing data visualization techniques, this project presents insights into how these factors evolve over time and influence global happiness levels. 
+The project aims to explore the relationship between various factors (such as GDP, life expectancy, freedom to make life choices, corruption perceptions, and social support) and happiness scores across different countries and regions from 2015 to 2023. By utilizing data visualization techniques, the project presents insights into how these factors evolve over time and influence global happiness levels. 
 
 The visualizations are created using Python libraries, including **Matplotlib**, **Seaborn**, and **Folium**, in Google Colab. These visualizations showcase trends, relationships, and disparities in happiness scores across different regions and countries.
 
@@ -127,10 +127,12 @@ The data used for this analysis was sourced from the Kaggle Global Happiness dat
 
 - **Happiness Scores**
 - **GDP per capita**
-- **Life Expectancy**
+- ** Healthy Life Expectancy**
 - **Corruption Perceptions**
+- **Freedm to make life choices**
+- **Generosity**
 
-The visualizations were created using Python libraries including **Matplotlib**, **Seaborn**, and **Folium** in Google Colab.
+I plotted the visualizations using Python libraries including **Matplotlib**, **Seaborn**, and **Folium** in Google Colab.
 
 ### Code Links:
 - [GitHub Repository](https://github.com/bhavana-devulapally/world-happiness-report-data-visualizaton/)
@@ -138,7 +140,7 @@ The visualizations were created using Python libraries including **Matplotlib**,
 
 ## Conclusion
 
-The analysis and visualizations presented in this report shed light on the factors that contribute to global happiness. Through a combination of geographical, economic, and health-related data, this report provides a holistic view of how countries' happiness levels have evolved and how they are influenced by different factors. 
+The analysis and visualizations presented above shed light on the factors that contribute to global happiness. Through a combination of geographical, economic, and health-related data, this report provides a holistic view of how countries happiness levels have evolved and how they are influenced by different factors. 
 
 By focusing on increasing healthy life expectancy, reducing corruption, improving GDP, and providing individuals with more freedom in making life choices, countries can continue to improve happiness scores and quality of life for their citizens.
 
