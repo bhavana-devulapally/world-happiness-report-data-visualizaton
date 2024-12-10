@@ -20,7 +20,7 @@ This heatmap visualizes the yearly happiness scores of several well-known countr
 
 - **Insight**: Countries like Denmark, Australia, and the Netherlands consistently maintain high happiness scores, staying in the red zone (above 6.5) throughout the years.
 
-![image](https://github.com/user-attachments/assets/f0845ee3-4199-4b05-9215-ae80242a1109?raw=true&width=500)
+![image](https://github.com/user-attachments/assets/f0845ee3-4199-4b05-9215-ae80242a1109?raw=true&width=5)
 
 
 ---
