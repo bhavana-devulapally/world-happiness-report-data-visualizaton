@@ -9,7 +9,7 @@ The visualizations are created using Python libraries, including **Matplotlib**,
 
 ## Visualizations
 
-##Data Overview
+## Data Overview
 
 <img width="566" alt="image" src="https://github.com/user-attachments/assets/b037fa4b-66d0-4508-ba4f-455208cd63a2">
 
