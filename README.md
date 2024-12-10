@@ -20,7 +20,8 @@ This heatmap visualizes the yearly happiness scores of several well-known countr
 
 - **Insight**: Countries like Denmark, Australia, and the Netherlands consistently maintain high happiness scores, staying in the red zone (above 6.5) throughout the years.
 
-![image](https://github.com/user-attachments/assets/f0845ee3-4199-4b05-9215-ae80242a1109?raw=true&width=5)
+![image](https://github.com/user-attachments/assets/aba00211-0c44-4a9e-8077-3aed1718566a)
+
 
 
 ---
@@ -31,7 +32,8 @@ This line graph illustrates the variation in average happiness scores across dif
 
 - **Insight**: Western and North American countries are at the top of the happiness spectrum, whereas African and South Asian countries face challenges in improving their happiness scores.
 
-![image](https://github.com/user-attachments/assets/5ea29203-b307-4607-90df-c0436696b6c8)
+![image](https://github.com/user-attachments/assets/22620b77-60cc-4bb5-a44c-749b76228578)
+
 
 
 ---
@@ -42,7 +44,8 @@ This map visualization represents the change in health life expectancy across th
 
 - **Insight**: Sub-Saharan Africa faces significant setbacks in health life expectancy, while other regions like Europe continue to make progress.
 
-![image](https://github.com/user-attachments/assets/c34f998f-0994-41c6-b909-d82463d63feb)
+![image](https://github.com/user-attachments/assets/6111728c-3b0f-4f3c-a417-cc780a56ba84)
+
 
 
 ---
@@ -53,7 +56,8 @@ This regression plot demonstrates the relationship between healthy life expectan
 
 - **Insight**: A clear positive relationship is observed, indicating that higher life expectancy contributes to increased happiness.
 
-![image](https://github.com/user-attachments/assets/84aac85d-696e-40a8-a749-595c79fc5a9b)
+![image](https://github.com/user-attachments/assets/1f904c23-f076-4c27-b877-2518b2393e00)
+
 
 
 ---
@@ -64,7 +68,7 @@ This bubble plot explores how the freedom to make life choices (x-axis), happine
 
 - **Insight**: Countries with greater freedom and longer life expectancies tend to be happier, emphasizing the role of these factors in societal well-being.
 
-![image](https://github.com/user-attachments/assets/6b1c4129-4968-48e2-8225-95abc6fd8811)
+![image](https://github.com/user-attachments/assets/4cb2e769-929f-4075-a6eb-8f61e6f626fb)
 
 
 ---
@@ -75,7 +79,8 @@ This plot illustrates the relationship between GDP per capita and happiness scor
 
 - **Insight**: Economic prosperity plays a significant role in enhancing happiness.
 
-![image](https://github.com/user-attachments/assets/9dd54f01-82a0-4914-a2e8-506890c05bde)
+![image](https://github.com/user-attachments/assets/5287773e-069d-4bd1-abcf-dbd33470a47e)
+
 
 
 ---
@@ -86,7 +91,8 @@ This violin plot visualizes the changes in corruption perceptions across the yea
 
 - **Insight**: The widening and rising medians of the violins signal a growing perception of corruption and a more polarized public opinion over time.
 
-![image](https://github.com/user-attachments/assets/ed50a96e-c4d1-4a58-ad79-a330b9690fe2)
+![image](https://github.com/user-attachments/assets/b5e185f2-a5c2-4322-bc43-5fc1a868e3aa)
+
 
 
 ---
@@ -97,7 +103,8 @@ This global map shows the interplay between happiness, life expectancy, GDP, and
 
 - **Insight**: Happiness tends to be higher in regions where economic stability, health, and social support are prioritized.
 
-![image](https://github.com/user-attachments/assets/8ef63fb2-d607-4ac9-a1f9-e5cbd4867e5c)
+![image](https://github.com/user-attachments/assets/25b28918-a02a-4c89-afef-0213aa2e37cf)
+
 
 
 ---
