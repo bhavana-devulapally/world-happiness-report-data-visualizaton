@@ -20,7 +20,7 @@ This heatmap visualizes the yearly happiness scores of several well-known countr
 
 - **Insight**: Countries like Denmark, Australia, and the Netherlands consistently maintain high happiness scores, staying in the red zone (above 6.5) throughout the years.
 
-![image](https://github.com/user-attachments/assets/aba00211-0c44-4a9e-8077-3aed1718566a)
+![image](https://github.com/user-attachments/assets/16af9eea-49d5-4f10-9eba-4b1149eeb5ec)
 
 
 
@@ -44,7 +44,8 @@ This map visualization represents the change in health life expectancy across th
 
 - **Insight**: Sub-Saharan Africa faces significant setbacks in health life expectancy, while other regions like Europe continue to make progress.
 
-![image](https://github.com/user-attachments/assets/6111728c-3b0f-4f3c-a417-cc780a56ba84)
+![image](https://github.com/user-attachments/assets/0370cb43-8caa-4e35-aeff-86d6666125ce)
+
 
 
 
@@ -52,11 +53,13 @@ This map visualization represents the change in health life expectancy across th
 
 ### **Figure 4: Plot Between Healthy Life Expectancy and Happiness Score** - *Regression Plot*
 
-This regression plot demonstrates the relationship between healthy life expectancy and happiness scores. The positive correlation suggests that countries with longer healthy life expectancy tend to have higher happiness scores.
+The analysis shows that happiness strongly correlates with social support, healthy life expectancy, and freedom, while generosity has a weaker link. This highlights the importance of social and economic factors in shaping happiness.
 
-- **Insight**: A clear positive relationship is observed, indicating that higher life expectancy contributes to increased happiness.
+- **Insight**: A clear positive relationship is observed, indicating that higher life expectancy, freedom to make life choices, social support  contributes to increased happiness.
 
-![image](https://github.com/user-attachments/assets/1f904c23-f076-4c27-b877-2518b2393e00)
+![image](https://github.com/user-attachments/assets/b2e3ed44-397f-415a-9313-b4a389ca6219)
+
+
 
 
 
@@ -103,7 +106,8 @@ This global map shows the interplay between happiness, life expectancy, GDP, and
 
 - **Insight**: Happiness tends to be higher in regions where economic stability, health, and social support are prioritized.
 
-![image](https://github.com/user-attachments/assets/25b28918-a02a-4c89-afef-0213aa2e37cf)
+![image](https://github.com/user-attachments/assets/31d3bd77-4257-4cea-a27b-0933f3efc6ba)
+
 
 
 
