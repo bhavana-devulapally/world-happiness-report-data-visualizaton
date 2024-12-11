@@ -30,9 +30,7 @@ This line graph illustrates the variation in average happiness scores across dif
 
 - **Insight**: Western and North American countries are at the top of the happiness spectrum, whereas African and South Asian countries face challenges in improving their happiness scores.
 
-![image](https://github.com/user-attachments/assets/22620b77-60cc-4bb5-a44c-749b76228578)
-
-
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/9c35f1f6-5916-4715-99e5-b5a9c7d34a7b">
 
 ---
 
