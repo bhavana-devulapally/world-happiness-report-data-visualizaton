@@ -55,10 +55,6 @@ The analysis shows that happiness strongly correlates with social support, healt
 
 ![image](https://github.com/user-attachments/assets/b2e3ed44-397f-415a-9313-b4a389ca6219)
 
-
-
-
-
 ---
 
 ### **Figure 5: Impact of Freedom to Make Life Choices and Healthy Life Expectancy on Happiness** - *Bubble Plot*
@@ -67,8 +63,7 @@ This bubble plot explores how the freedom to make life choices (x-axis), happine
 
 - **Insight**: Countries with greater freedom and longer life expectancies tend to be happier, emphasizing the role of these factors in societal well-being.
 
-![image](https://github.com/user-attachments/assets/4cb2e769-929f-4075-a6eb-8f61e6f626fb)
-
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/e09964d7-6b21-4857-ac59-370f3832fb38">
 
 ---
 
@@ -78,9 +73,7 @@ This plot illustrates the relationship between GDP per capita and happiness scor
 
 - **Insight**: Economic prosperity plays a significant role in enhancing happiness.
 
-![image](https://github.com/user-attachments/assets/5287773e-069d-4bd1-abcf-dbd33470a47e)
-
-
+<img width="278" alt="image" src="https://github.com/user-attachments/assets/9831f695-ba27-4335-9b94-e633a008db7d">
 
 ---
 
