@@ -119,7 +119,7 @@ The data used for this analysis was sourced from the Kaggle Global Happiness dat
 
 - **Happiness Scores**
 - **GDP per capita**
-- ** Healthy Life Expectancy**
+- **Healthy Life Expectancy**
 - **Corruption Perceptions**
 - **Freedm to make life choices**
 - **Generosity**
