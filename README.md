@@ -20,7 +20,7 @@ This heatmap visualizes the yearly happiness scores of several well-known countr
 
 - **Insight**: Countries like Denmark, Australia, and the Netherlands consistently maintain high happiness scores, staying in the red zone (above 6.5) throughout the years.
 
-<img width="425" alt="image" src="https://github.com/user-attachments/assets/7f47f426-29e6-4953-8e3f-835e2b0f5d53">
+![image](https://github.com/user-attachments/assets/655edd44-ffe7-4122-b704-831c37c13578)
 
 ---
 
@@ -30,20 +30,17 @@ This line graph illustrates the variation in average happiness scores across dif
 
 - **Insight**: Western and North American countries are at the top of the happiness spectrum, whereas African and South Asian countries face challenges in improving their happiness scores.
 
-<img width="362" alt="image" src="https://github.com/user-attachments/assets/9c35f1f6-5916-4715-99e5-b5a9c7d34a7b">
+![image](https://github.com/user-attachments/assets/48e00359-b8de-4c67-804a-9407dc2e221e)
 
 ---
 
 ### **Figure 3: Changes in Health Life Expectancy in Countries (2015–2023)** - *Map Plot*
 
-This map visualization represents the change in health life expectancy across the globe from 2015 to 2023. A color gradient from purple (decrease) to yellow (increase) signifies the degree of change. 
+This map visualization represents the change in health life expectancy across the globe from 2015 to 2023. A color gradient from yellow (decrease) to dark red (increase) signifies the degree of change. 
 
-- **Insight**: Sub-Saharan Africa faces significant setbacks in health life expectancy, while other regions like Europe continue to make progress.
+- **Insight**: Over the years, the healthy life expectancy has decreased for most countries, as indicated by negative values highlighted in yellow. However, several countries in Africa and some in Western Europe have shown an increase in healthy life expectancy  from 2015 to 2023.
 
-![image](https://github.com/user-attachments/assets/0370cb43-8caa-4e35-aeff-86d6666125ce)
-
-
-
+![image](https://github.com/user-attachments/assets/ee139267-deb4-41c0-93fd-1d02468a67c4)
 
 ---
 
@@ -53,7 +50,7 @@ The analysis shows that happiness strongly correlates with social support, healt
 
 - **Insight**: A clear positive relationship is observed, indicating that higher life expectancy, freedom to make life choices, social support  contributes to increased happiness.
 
-![image](https://github.com/user-attachments/assets/b2e3ed44-397f-415a-9313-b4a389ca6219)
+![image](https://github.com/user-attachments/assets/486d4a7d-8479-4fc6-864b-fd7b08a44bf1)
 
 ---
 
@@ -63,17 +60,19 @@ This bubble plot explores how the freedom to make life choices (x-axis), happine
 
 - **Insight**: Countries with greater freedom and longer life expectancies tend to be happier, emphasizing the role of these factors in societal well-being.
 
-<img width="392" alt="image" src="https://github.com/user-attachments/assets/e09964d7-6b21-4857-ac59-370f3832fb38">
+![image](https://github.com/user-attachments/assets/e1d9d7bc-79f1-483c-9f6b-ff9ff163e946)
+
 
 ---
 
 ### **Figure 6: Plot Between GDP per Capita and Happiness Score** - *Bubble Plot*
 
-This plot illustrates the relationship between GDP per capita and happiness scores, with a color gradient reflecting happiness levels. The strongest clustering occurs in the upper-right quadrant, where countries with both high GDP and high happiness scores are concentrated.
+This plot illustrates the relationship between GDP per capita and happiness scores, with a color gradient(from yellow to dark red) reflecting happiness levels. The strongest clustering occurs in the upper-right quadrant, where countries with both high GDP and high happiness scores are concentrated.
 
 - **Insight**: Economic prosperity plays a significant role in enhancing happiness.
 
-<img width="278" alt="image" src="https://github.com/user-attachments/assets/9831f695-ba27-4335-9b94-e633a008db7d">
+![image](https://github.com/user-attachments/assets/f0aef68b-f17b-4839-bdc0-f1107982d743)
+
 
 ---
 
@@ -83,8 +82,7 @@ This violin plot visualizes the changes in corruption perceptions across the yea
 
 - **Insight**: The widening and rising medians of the violins signal a growing perception of corruption and a more polarized public opinion over time.
 
-![image](https://github.com/user-attachments/assets/b5e185f2-a5c2-4322-bc43-5fc1a868e3aa)
-
+![image](https://github.com/user-attachments/assets/69a6c180-6bd9-4d9d-ade1-e11065dd5425)
 
 
 ---
@@ -95,7 +93,8 @@ This global map shows the interplay between happiness, life expectancy, GDP, and
 
 - **Insight**: Happiness tends to be higher in regions where economic stability, health, and social support are prioritized.
 
-![image](https://github.com/user-attachments/assets/31d3bd77-4257-4cea-a27b-0933f3efc6ba)
+![image](https://github.com/user-attachments/assets/2dbb86bf-8a2e-4192-ae84-3ce95202c484)
+
 
 
 
